@@ -1,5 +1,3 @@
-# chi-template
-
 <div align="center">
   <img src="assets/template.png" alt="Logo" width="120">
 </div>
